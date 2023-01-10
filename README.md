@@ -8,7 +8,7 @@
 👶 1992.10.16 <br>
 📞 010-2049-1601 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junsungh1601@gmail.com)](mailto:junsungh1601@gmail.com) <span><a href="https://www.notion.so/3b772d5e640945bcbc6898805aaa0bdf"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junsungh1601@gmail.com)](mailto:junsungh1601@gmail.com) <span><a href="https://astonishing-cloudberry-167.notion.site/3b772d5e640945bcbc6898805aaa0bdf"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 ![Junsung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghdwnstjd&show_icons=true&theme=radical)
